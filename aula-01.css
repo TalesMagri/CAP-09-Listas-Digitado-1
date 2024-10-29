@@ -1,0 +1,45 @@
+.o-ol{
+    font-size: 2.2rem;
+    margin: 38px;
+}
+
+.o-h2{
+    font-size: 1.8rem;
+}
+
+#table-lula{
+    font-size: 1.5rem;
+}
+
+.p-ol{
+    font-size: 2.2rem ;
+    margin: 38px;
+}
+
+.q1-ol{
+    font-size: 1.8rem;
+}
+
+#table-bolsonaro{
+    font-size: 1.5rem;
+}
+
+.DIV-01{
+    margin: 38px;
+    list-style: none;
+    margin: -0.4px;
+    border: black 5px solid;
+    border-radius: 10px;
+    width: 100px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 250px;
+    background-color: #4C81F5;
+    background: linear-gradient(#4CB7F5, #4C4CF5,#834CF5);
+    font-family: monospace;
+    font-size: 0.89rem;
+}
